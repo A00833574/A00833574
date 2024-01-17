@@ -2,7 +2,7 @@
 
 ## About Me
   - 📚 I'm a Computer Science and Technolgy student @ [Tec de Monterrey](https://tec.mx/en/computer-science-and-information-technologies/bs-in-computer-science-and-technology)
-  - 🧑‍💻 I'm currently a SWE Intern @ [John Deere] (https://www.deere.com/en/index.html)
+  - 🧑‍💻 I'm currently a SWE Intern @ [John Deere](https://www.deere.com/en/index.html)
   - 💻 In my free time I develop personal projects related to SWD and Networking
 
 ## Contact Me
